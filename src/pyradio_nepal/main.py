@@ -26,8 +26,8 @@ def pretty_print_stations():
     datas = [['S.N.', 'NAME', 'LOCATION', 'FREQUENCY']]
     with open(file_path, 'r') as f:
         stations_json = json.loads(f.read())
-        for counter, station in enumerate(stations_json):
-            datas.append([counter + 1, station['name'], station['location'], station['frequency']])
+        for counter, station in enumerate(stations_json, start = 1):
+            datas.append([counter, station['name'], station['location'], station['frequency']])
     print(AsciiTable(datas).table)
 
 # start the player
