@@ -1,7 +1,7 @@
 
 import sys
 import logging
-from libradio import utils
+from .libradio import utils
 
 
 def run():

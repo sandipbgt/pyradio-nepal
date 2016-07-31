@@ -1,6 +1,6 @@
 import requests
 import logging
-import player
+from . import player
 import json
 import os
 
