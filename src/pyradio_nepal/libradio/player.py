@@ -1,6 +1,7 @@
 import subprocess
 import os
 import logging
+import platform
 
 logger = logging.getLogger(__name__)
 
@@ -85,7 +86,7 @@ class MpPlayer(Player):
 
 class VlcPlayer(Player):
 
-    PLAYER_CMD = "cvlc"
+    PLAYER_CMD = "/Applications/VLC.app/Contents/MacOS/VLC" if platform.system() == 'Darwin' else "cvlc"
 
     def _buildStartOpts(self, streamUrl):
         return [self.PLAYER_CMD, "-I", "rc", streamUrl]
