@@ -14,7 +14,7 @@ def get_player():
     radio = None
     try:
         radio = player.VlcPlayer()
-    except Exception, e:
+    except Exception as e:
         logging.warn('Failed to load first player option, trying another, %s' % str(e))
         radio = player.MpPlayer()
     finally:
@@ -41,7 +41,7 @@ def get_stations():
         response = requests.get(STATION_FETCH_URL, timeout=60, verify=False)
         json_content = json.loads(response.content)
         stations_json = json_content.get('stations', []) or []
-    except Exception, e:
+    except Exception as e:
         logging.warn('Exception on server request, %s. Processing static data' % str(e))
         stations_json = get_stations_from_json()
     finally:
