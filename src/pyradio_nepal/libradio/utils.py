@@ -4,6 +4,7 @@ import player
 import json
 import os
 
+# this is a test url, create a live server.
 STATION_FETCH_URL = 'https://stations.radiostationserver.com'
 
 
