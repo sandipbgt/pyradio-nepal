@@ -1,12 +1,12 @@
 import subprocess
-import threading
 import os
 import logging
 import platform
 
 logger = logging.getLogger(__name__)
 
-class Player():
+
+class Player:
     process = None
 
     def __init__(self):
