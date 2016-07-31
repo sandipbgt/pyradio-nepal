@@ -12,22 +12,23 @@ def rel(path):
 file_path = rel('.radio_stations_json')
 
 # get list of stations from json file
-def get_stations():
+def get_stations(search=None):
     stations = []
     with open(file_path, 'r') as f:
         stations_json = json.loads(f.read())
         for counter, station in enumerate(stations_json):
-            stations.append([counter + 1, station['name'], station['location'], station['frequency'], station['stream_url']])
+            if search and search in station['name'] or not search:
+                stations.append([counter + 1, station['name'], station['location'], station['frequency'], station['stream_url']])
         return stations
 
 # pretty print all the radio stations
-def pretty_print_stations():
+def pretty_print_stations(search=None):
     from terminaltables import AsciiTable
     datas = [['S.N.', 'NAME', 'LOCATION', 'FREQUENCY']]
     with open(file_path, 'r') as f:
         stations_json = json.loads(f.read())
         for counter, station in enumerate(stations_json, start = 1):
-            datas.append([counter, station['name'], station['location'], station['frequency']])
+            if search and search.lower() in station['name'].lower() or not search: datas.append([counter, station['name'], station['location'], station['frequency']])
     print(AsciiTable(datas).table)
 
 # start the player
@@ -38,7 +39,7 @@ def run():
 
     while play:
         user_input = input("Enter station number ({})> ".format(current)).strip()
-        
+
         if user_input == "exit":
             user_input = 0
             radio.close()
@@ -46,7 +47,6 @@ def run():
         elif user_input == 'list':
             pretty_print_stations()
             user_input = 0
-
         try:
             num = int(user_input)
             if (num > 0):
@@ -58,7 +58,8 @@ def run():
                 except IndexError:
                     print("Invalid station number")
         except ValueError:
-            print("Invalid station number")
+            pretty_print_stations(user_input)
+            user_input = 0
 
 def main():
     run()
