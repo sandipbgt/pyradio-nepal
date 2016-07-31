@@ -78,7 +78,7 @@ def get_stations_from_json():
 def main():
     stations = get_stations()
     pretty_print_stations(stations)
-    print get_player()
+    print (get_player())
 
 if __name__ == '__main__':
     main()
