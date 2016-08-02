@@ -44,7 +44,7 @@ def get_stations():
         json_content = json.loads(response.content)
         stations_json = json_content.get('stations', []) or []
     except Exception as e:
-        logging.warn('Exception on server request, %s. Processing static data' % str(e))
+        logging.warn('Unable to load data from server. Processing local data.')
         stations_json = get_stations_from_json()
     finally:
         return _format_station_json_to_dict(stations_json)
@@ -80,7 +80,7 @@ def get_stations_from_json():
 def main():
     stations = get_stations()
     pretty_print_stations(stations)
-    print (get_player())
+    print(get_player())
 
 if __name__ == '__main__':
     main()
