@@ -1,4 +1,3 @@
-
 import sys
 import logging
 from .libradio import utils
@@ -16,11 +15,12 @@ def run():
     play = True
     current = None
     while play:
-        user_input = input("Enter station number ({}) or type station to search> ".format(current)).strip()
+        user_input = input("Enter station number ({}) or type station name to search> ".format(current)).strip()
 
         if user_input == "exit":
             radio.close()
             play = False
+            sys.exit(0)
         elif user_input == 'list':
             utils.pretty_print_stations(stations)
             continue
