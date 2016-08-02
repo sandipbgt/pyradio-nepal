@@ -24,13 +24,14 @@ def export_stations(stations=[], filename='.radio_stations_json'):
         f.write(json.dumps(stations, indent=4))
 
 # pretty print all the radio stations
-def pretty_print(stations):
+def pretty_print(stations, search=None):
     from terminaltables import AsciiTable
 
     datas = [['S.N.', 'NAME', 'LOCATION', 'FREQUENCY'],]
 
     for counter, station in enumerate(stations):
-        datas.append([counter + 1, station['name'], station['location'], station['frequency']])
+        if search and search in station['name'] or not search:
+            datas.append([counter + 1, station['name'], station['location'], station['frequency']])
 
     table = AsciiTable(datas)
     print(table.table)

@@ -3,7 +3,6 @@ import sys
 import logging
 from .libradio import utils
 
-
 def run():
     """
     starts the player
@@ -17,15 +16,14 @@ def run():
     play = True
     current = None
     while play:
-        user_input = input("Enter station number ({})> ".format(current)).strip()
-        
+        user_input = input("Enter station number ({}) or type station to search> ".format(current)).strip()
+
         if user_input == "exit":
             radio.close()
             play = False
         elif user_input == 'list':
             utils.pretty_print_stations(stations)
             continue
-
         try:
             num = int(user_input)
             if num > 0:
@@ -37,7 +35,8 @@ def run():
                 except IndexError:
                     print("Invalid station number")
         except ValueError:
-            print("Invalid station number")
+            utils.pretty_print_stations(stations, user_input)
+            user_input = 0
 
 
 def main():

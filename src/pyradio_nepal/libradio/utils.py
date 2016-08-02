@@ -22,13 +22,14 @@ def get_player():
         return radio
 
 
-def pretty_print_stations(stations=[]):
+def pretty_print_stations(stations=[], search=None):
     """
     prints all the radio stations in a table
     """
     from terminaltables import AsciiTable
     data = [['S.N.', 'NAME', 'LOCATION', 'FREQUENCY']]
-    data.extend([[v['count'], v['name'], v['location'], v['frequency']] for v in stations])
+    data.extend([[v['count'], v['name'], v['location'], v['frequency']] for v in stations
+                        if search and search.lower() in v['name'].lower() or not search])
     print(AsciiTable(data).table)
 
 
