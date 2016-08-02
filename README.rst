@@ -24,17 +24,22 @@ Usage
 ::
 
     $ pyradio-nepal
-    $ Enter station number (None)> list
+    $ Enter station number (None) or type station name to search> list
 
 - To listen any radio station, type the station number obtained from the list
 ::
 
-    $ Enter station number (None)> 1
+    $ Enter station number (None) or type station name to search> 1
+
+- To search radio station, type the name of the station
+::
+
+    $ Enter station number (None) or type station name to search> your search term
 
 - To exit
 ::
 
-    $ Enter station number (None)> exit
+    $ Enter station number (None) or type station name to search> exit
 
 Contribution
 ------------
