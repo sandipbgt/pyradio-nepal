@@ -4,8 +4,8 @@ from . import player
 import json
 import os
 
-# this is a test url, create a live server.
-STATION_FETCH_URL = 'https://stations.radiostationserver.com'
+# stations api url
+STATION_FETCH_URL = 'http://sandipbgt.com/pyradio-nepal/api/stations.json'
 
 
 def get_player():
@@ -40,9 +40,9 @@ def get_stations():
     """
     stations_json = []
     try:
-        response = requests.get(STATION_FETCH_URL, timeout=60, verify=False)
-        json_content = json.loads(response.content)
-        stations_json = json_content.get('stations', []) or []
+        print("Fetching stations data from server.")
+        response = requests.get(STATION_FETCH_URL)
+        stations_json = response.json()
     except Exception as e:
         logging.warn('Unable to load data from server. Processing local data.')
         stations_json = get_stations_from_json()
