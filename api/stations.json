@@ -1,0 +1,2258 @@
+[
+    {
+        "name": "Butwal FM",
+        "location": "Rupandehi",
+        "frequency": "94.4 MHz",
+        "stream_url": "http://streaming.softnep.net:8003/"
+    },
+    {
+        "name": "Capital FM",
+        "location": "Kathmandu",
+        "frequency": "92.4 MHz",
+        "stream_url": "http://streaming.softnep.net:8037/"
+    },
+    {
+        "name": "Choice FM",
+        "location": "Gorkha",
+        "frequency": "90.4 MHz",
+        "stream_url": "http://38.107.242.90:8256"
+    },
+    {
+        "name": "Dhawlagiri FM",
+        "location": "Awaroad-2, Baglung",
+        "frequency": "98.6 MHz",
+        "stream_url": "http://s10.voscast.com:10096/"
+    },
+    {
+        "name": "Gorkha FM",
+        "location": "Kathmandu",
+        "frequency": "93 MHz",
+        "stream_url": "http://38.107.242.90:8198/"
+    },
+    {
+        "name": "Image FM",
+        "location": "Kathmandu",
+        "frequency": "97.9 MHz",
+        "stream_url": "http://182.50.64.136:89/broadwave.mp3"
+    },
+    {
+        "name": "Jagaran FM",
+        "location": "Surkhet",
+        "frequency": "90.8",
+        "stream_url": "http://radio.itechnepal.net:8080/jagaranfm"
+    },
+    {
+        "name": "Kanchanjungha FM",
+        "location": "Jhapa",
+        "frequency": "92.6 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/kanchanjunghafm"
+    },
+    {
+        "name": "Pathivara FM",
+        "location": "Jhapa",
+        "frequency": "93.6 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/pathibhara"
+    },
+    {
+        "name": "Radio Annapurna",
+        "location": "Kaski",
+        "frequency": "93.4 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radioannapurna"
+    },
+    {
+        "name": "Radio Audio",
+        "location": "New Baneshwor, Kathmandu",
+        "frequency": "106.3 MHz",
+        "stream_url": "http://streaming.softnep.net:8049"
+    },
+    {
+        "name": "Radio Chautari",
+        "location": "Besisahar, Lamjung",
+        "frequency": "91.4 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/ecomedia-ngwscghj/stream.mp3"
+    },
+    {
+        "name": "Radio Didibahini",
+        "location": "Parbat",
+        "frequency": "95.2 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radiodidibahini"
+    },
+    {
+        "name": "Janakpur Today",
+        "location": "Janakpur",
+        "frequency": "91 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8434"
+    },
+    {
+        "name": "Radio Madi",
+        "location": "Madi, Chitwan",
+        "frequency": "107.6 MHz",
+        "stream_url": "http://192.190.84.25:9924"
+    },
+    {
+        "name": "Radio Marsyangdi",
+        "location": "Lamjung",
+        "frequency": "95 MHz",
+        "stream_url": "http://38.107.242.90:8110/"
+    },
+    {
+        "name": "Radio Mirmire",
+        "location": "Anamnagar, Kathmandu",
+        "frequency": "89.4 MHz",
+        "stream_url": "http://38.107.242.90:8232/"
+    },
+    {
+        "name": "Radio Nepalbani",
+        "location": "Ilam",
+        "frequency": "94.9 MHz",
+        "stream_url": "http://38.107.242.90:8168/"
+    },
+    {
+        "name": "Radio Rudraksha",
+        "location": "Mahottari",
+        "frequency": "103.4",
+        "stream_url": "NA"
+    },
+    {
+        "name": "Radio Safalta",
+        "location": "Pokhara",
+        "frequency": "103.4 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/safalta"
+    },
+    {
+        "name": "Radio Sarlahi",
+        "location": "Sarlahi",
+        "frequency": "105.6 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8150/;stream.nsv"
+    },
+    {
+        "name": "Radio Sunrise",
+        "location": "Jhapa",
+        "frequency": "105.9",
+        "stream_url": ""
+    },
+    {
+        "name": "Radio Tikapur",
+        "location": "Kailali",
+        "frequency": "101 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8220"
+    },
+    {
+        "name": "Ujyaalo 90 Network",
+        "location": "Lalitpur, Kathmandu",
+        "frequency": "90 MHz",
+        "stream_url": "http://ujyaalo-stream.softnep.com:7710/"
+    },
+    {
+        "name": "Nuwakot FM",
+        "location": "Nuwakot",
+        "frequency": "106.8 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/ecomedia-xcrtgbhu/stream.mp3\n"
+    },
+    {
+        "name": "Radio Annapurna Nepal",
+        "location": "Maharajgunj, Kathmandu",
+        "frequency": "94 MHz",
+        "stream_url": "http://streaming.softnep.net:8091/"
+    },
+    {
+        "name": "Radio Sagarmatha",
+        "location": "Bhanimandal, Lalitpur",
+        "frequency": "102.4 MHz",
+        "stream_url": "http://38.107.242.90:8004/"
+    },
+    {
+        "name": "Radio Kantipur",
+        "location": "Kathmandu",
+        "frequency": "96.1 MHz",
+        "stream_url": "http://kantipur-stream.softnep.com:7248/;stream.nsv&type=mp3"
+    },
+    {
+        "name": "Kalika FM",
+        "location": "Bharatpur, Chitwan",
+        "frequency": "95.2 MHz",
+        "stream_url": "http://kalika-stream.softnep.com:7740"
+    },
+    {
+        "name": "Radio Madhyabindu",
+        "location": "Kawasoti-5, Nawalparasi",
+        "frequency": "101 MHz",
+        "stream_url": "http://streaming.softnep.net:8077"
+    },
+    {
+        "name": "Radio Lumbini",
+        "location": "Rupandehi",
+        "frequency": "96.8 MHz",
+        "stream_url": "http://streaming.softnep.net:8085/"
+    },
+    {
+        "name": "Radio Triveni",
+        "location": "Bharatpur, Chitwan",
+        "frequency": "100.6 MHz",
+        "stream_url": "http://streaming.softnep.net:8031"
+    },
+    {
+        "name": "Synergy FM",
+        "location": "Bharatpur - 10, Chitwan",
+        "frequency": "91.6 MHz",
+        "stream_url": "http://streaming.softnep.net:8067"
+    },
+    {
+        "name": "NARAYANI FM",
+        "location": "Parsa",
+        "frequency": "103.8",
+        "stream_url": "http://38.107.242.90:8272/"
+    },
+    {
+        "name": "Radio Makawanpur",
+        "location": "Hetauda-4, Makawanpur",
+        "frequency": "101.3 MHz",
+        "stream_url": "http://streaming.softnep.net:8057/;stream.nsv"
+    },
+    {
+        "name": "Radio Namaste",
+        "location": "Rupandehi",
+        "frequency": "92.8 MHz",
+        "stream_url": "http://38.107.242.90:8186/"
+    },
+    {
+        "name": "Vijaya FM",
+        "location": "Gaindakot-8, Nawalparasi",
+        "frequency": "101.6 MHz",
+        "stream_url": "http://streaming.softnep.net:8001/"
+    },
+    {
+        "name": "Radio Thaha Sanchar FM",
+        "location": "Hetauda-9, Makawanpur, Nepal",
+        "frequency": "99.6 MHz",
+        "stream_url": "http://streaming.softnep.net:7025"
+    },
+    {
+        "name": "Radio Suseli",
+        "location": "Morang",
+        "frequency": "106.3 MHz",
+        "stream_url": "http://www.radiosuseli.com/index.php#"
+    },
+    {
+        "name": "Radio Taranga",
+        "location": "Kaski, Pokhara",
+        "frequency": "107.6 MHz",
+        "stream_url": "http://38.107.242.90:8266/"
+    },
+    {
+        "name": "Radio Tanahun",
+        "location": "Tanahu",
+        "frequency": "97.2 MHz",
+        "stream_url": "http://radio.itechnepal.com/tanahu/stream"
+    },
+    {
+        "name": "Radio Tamor",
+        "location": "Taplejung",
+        "frequency": "102 MHz",
+        "stream_url": "http://radio.itechnepal.com/tamor/stream"
+    },
+    {
+        "name": "Radio Sarada",
+        "location": "Salyan",
+        "frequency": "99.2",
+        "stream_url": "http://radio.itechnepal.com/sarada/stream"
+    },
+    {
+        "name": "Radio Mahakali",
+        "location": "Mahendranagar, Kanchanpur",
+        "frequency": "96.2 MHz",
+        "stream_url": "http://radio.itechnepal.com/mahakali/stream"
+    },
+    {
+        "name": "Radio Lamjung",
+        "location": "Lamjung",
+        "frequency": "88.4 MHz",
+        "stream_url": "http://radio.itechnepal.com/lamjung/stream\n"
+    },
+    {
+        "name": "Radio Dhorpatan",
+        "location": "Kathmandu",
+        "frequency": "104.1 MHz",
+        "stream_url": "http://38.107.242.90:8238"
+    },
+    {
+        "name": "Radio Dhading",
+        "location": "Dadhing",
+        "frequency": "106 MHz",
+        "stream_url": "http://radio.itechnepal.com/dhading/stream"
+    },
+    {
+        "name": "Radio Buddha Awaaz",
+        "location": "Kapilvastu",
+        "frequency": "89.6 MHz",
+        "stream_url": "http://radio.itechnepal.com/buddhaaawaz/stream"
+    },
+    {
+        "name": "Radio Bihani",
+        "location": "Dadhing",
+        "frequency": "97.6 MHz",
+        "stream_url": "http://radio.itechnepal.com/radiobihani/stream"
+    },
+    {
+        "name": "Radio Paschim Today",
+        "location": "Dhangadi, Kailali",
+        "frequency": "88.8 MHz",
+        "stream_url": "http://radio.itechnepal.com/paschimtoday/stream"
+    },
+    {
+        "name": "Radio Bandipur FM",
+        "location": "Tanahun",
+        "frequency": "88.8 MHz",
+        "stream_url": "http://radio.itechnepal.com/bandipur/stream"
+    },
+    {
+        "name": "Radio Baglung FM",
+        "location": "Baglung",
+        "frequency": "96.4 MHz",
+        "stream_url": "http://38.107.242.90:8084/"
+    },
+    {
+        "name": "Radio Andhikhola",
+        "location": "Waling-4, Syangja",
+        "frequency": "105.4 MHz",
+        "stream_url": "http://radio.itechnepal.com/radioandhikhola/stream"
+    },
+    {
+        "name": "BBC Nepali radio",
+        "location": "Kathmandu",
+        "frequency": "",
+        "stream_url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-nepla"
+    },
+    {
+        "name": "Bhojpuriya FM",
+        "location": "Birgunj, Parsa",
+        "frequency": "92.8 MHz",
+        "stream_url": "http://streaming.softnep.net:8143/"
+    },
+    {
+        "name": "Classic FM",
+        "location": "Jawalakhel, Lalitpur",
+        "frequency": "101.2 MHz",
+        "stream_url": "http://radio.itechnepal.com/classicfm/stream"
+    },
+    {
+        "name": "Ilam FM",
+        "location": "Ilam",
+        "frequency": "93 MHz",
+        "stream_url": "http://radio.itechnepal.com/ilam-fm/stream"
+    },
+    {
+        "name": "Indreni FM",
+        "location": "Parsa",
+        "frequency": "97.6 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radioindreni"
+    },
+    {
+        "name": "Nepali Music",
+        "location": "Nepal",
+        "frequency": "",
+        "stream_url": "http://s2.voscast.com:7544/index.html"
+    },
+    {
+        "name": "Saugat FM",
+        "location": "Baitadi",
+        "frequency": "103.6 MHz",
+        "stream_url": "http://radio.itechnepal.com/saugatfm/stream"
+    },
+    {
+        "name": "Singhalila FM",
+        "location": "Phidim, Panchthar",
+        "frequency": "97.3 MHz",
+        "stream_url": "http://38.107.242.90:8108"
+    },
+    {
+        "name": "Star FM",
+        "location": "Kathmandu",
+        "frequency": "95.2 MHz",
+        "stream_url": "http://radio.itechnepal.com/starfmktm/stream"
+    },
+    {
+        "name": "Radio Jaljala",
+        "location": "Rolpa",
+        "frequency": "96.4 MHz",
+        "stream_url": "http://38.107.242.90:8264/"
+    },
+    {
+        "name": "Solu FM",
+        "location": "salleri, solukhumbu",
+        "frequency": "101.2 MHz",
+        "stream_url": "http://38.107.242.90:8198/"
+    },
+    {
+        "name": "BFM",
+        "location": "Biratnagar-7, Morang",
+        "frequency": "91.2 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8022/stream"
+    },
+    {
+        "name": "Texas Nepal Radio",
+        "location": "Internet Radio",
+        "frequency": "online",
+        "stream_url": "http://radio.texasnepal.com:8316/"
+    },
+    {
+        "name": "Nepali Media",
+        "location": "Salt Lake City, Utah",
+        "frequency": "online",
+        "stream_url": "http://170.75.144.170:24184"
+    },
+    {
+        "name": "BFBS Gurkha Radio",
+        "location": "UK",
+        "frequency": "online",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs3.mp3"
+    },
+    {
+        "name": "Times FM",
+        "location": "Chabahil, Kathmandu",
+        "frequency": "90.6 MHz",
+        "stream_url": "http://162.216.6.74:8060/"
+    },
+    {
+        "name": "Radio ABC",
+        "location": "Kavre",
+        "frequency": "89.8 MHz",
+        "stream_url": "http://78.129.163.129:7099/"
+    },
+    {
+        "name": "Radio Appan Mithila",
+        "location": "Janakpur",
+        "frequency": "94.4 MHz",
+        "stream_url": "http://83.170.117.142:8096/"
+    },
+    {
+        "name": "Radio Hamro Pahunch",
+        "location": "Dang",
+        "frequency": "89 MHz",
+        "stream_url": "http://radio.itechnepal.com/hamropahunch/stream"
+    },
+    {
+        "name": "Radio XPRESS FM",
+        "location": "Nepalgunj",
+        "frequency": "88.4 MHz",
+        "stream_url": "http://streaming.softnep.net:8027/"
+    },
+    {
+        "name": "Radio Sky FM",
+        "location": "Tamghas, Gulmi",
+        "frequency": "90.4 MHz",
+        "stream_url": "http://radio.itechnepal.com/radiosky/stream"
+    },
+    {
+        "name": "Radio Rajdhani",
+        "location": "Kathmandu",
+        "frequency": "100.6 MHz",
+        "stream_url": "http://s6.voscast.com:7178/"
+    },
+    {
+        "name": "Radio Loktantra",
+        "location": "Dhading",
+        "frequency": "89.4 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8114/"
+    },
+    {
+        "name": "Radio Sunakhari",
+        "location": "Morang",
+        "frequency": "102.6 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8128/"
+    },
+    {
+        "name": "Hello FM",
+        "location": "Morang",
+        "frequency": "99.2 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8166/"
+    },
+    {
+        "name": "Radio Madhesh",
+        "location": "Rajbiraj",
+        "frequency": "106.6 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8082/"
+    },
+    {
+        "name": "Radio Waling",
+        "location": "Syanja",
+        "frequency": "89.2 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8106/"
+    },
+    {
+        "name": "Hamro Malika FM",
+        "location": "Lamki, Kailali",
+        "frequency": "99 MHz",
+        "stream_url": "http://38.107.242.90:8112/"
+    },
+    {
+        "name": "Radio Mithila",
+        "location": "Janakpurdham, Dhanusa",
+        "frequency": "100.8 MHz",
+        "stream_url": "http://38.107.242.90:8244/"
+    },
+    {
+        "name": "Radio Gandaki",
+        "location": "Pokhara",
+        "frequency": "90.2 MHz",
+        "stream_url": "http://radio.itechnepal.com/gandakimedia/stream"
+    },
+    {
+        "name": "Hits FM",
+        "location": "Kathmandu",
+        "frequency": "91.2 MHz",
+        "stream_url": "http://usa4.fastcast4u.com:5098/;stream.nsv"
+    },
+    {
+        "name": "Nepal FM",
+        "location": "Kathmandu",
+        "frequency": "91.8 MHz",
+        "stream_url": "http://nfm.itechnepal.net:8878/"
+    },
+    {
+        "name": "Maitri FM",
+        "location": "Kathmandu",
+        "frequency": "99.4 MHz",
+        "stream_url": "mms://202.52.237.122/maitrifm/"
+    },
+    {
+        "name": "Radio Arpan",
+        "location": "Chitwan, Nepal",
+        "frequency": "104.5 MHz",
+        "stream_url": "http://192.190.84.25:9950/"
+    },
+    {
+        "name": "Krishnasar FM",
+        "location": "Nepalgunj, Banke",
+        "frequency": "94 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/krishnasarfm/"
+    },
+    {
+        "name": "Radio Syangja FM",
+        "location": "Syngja",
+        "frequency": "89.6 MHz",
+        "stream_url": "http://shoutcast.itechnepal.com:8400/"
+    },
+    {
+        "name": "Radio Prakriti",
+        "location": "Tulsipur - 5 Salyan Road, Dang",
+        "frequency": "93.4 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/prakriti"
+    },
+    {
+        "name": "Mero Sathi FM",
+        "location": "Tanahu",
+        "frequency": "107.2 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8008/"
+    },
+    {
+        "name": "Kalinchowk FM",
+        "location": "Dolakha",
+        "frequency": "106.4 MHz",
+        "stream_url": "http://streaming.softnep.net:8109"
+    },
+    {
+        "name": "Keeps FM",
+        "location": "Kathmandu",
+        "frequency": "98.3 MHz",
+        "stream_url": "mms://202.52.237.122/keepsfm/"
+    },
+    {
+        "name": "Baijanath FM",
+        "location": "Achham",
+        "frequency": "88.2 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:9040/"
+    },
+    {
+        "name": "Radio Menchhyaye",
+        "location": "Terahathum",
+        "frequency": "102.6 MHz",
+        "stream_url": "http://178.33.227.116:8403/"
+    },
+    {
+        "name": "Radio Sargam",
+        "location": "Jhapa",
+        "frequency": "88.8 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8202/"
+    },
+    {
+        "name": "Radio Makalu",
+        "location": "Dhankuta",
+        "frequency": "92.2 MHz",
+        "stream_url": "http://178.33.227.116:8525/"
+    },
+    {
+        "name": "Radio Chitwan",
+        "location": "Tandi, Chitwan",
+        "frequency": "94.6 MHz",
+        "stream_url": "http://192.190.84.25:9914"
+    },
+    {
+        "name": "Radio Dhorbarahi",
+        "location": "Tanahu",
+        "frequency": "88.2 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radiodhorbarahi"
+    },
+    {
+        "name": "Madiseti F.M.",
+        "location": "Tanahu",
+        "frequency": "105.8 MHz",
+        "stream_url": "http://38.107.242.90:8712/"
+    },
+    {
+        "name": "Radio Arghakhanchi",
+        "location": "Arghakhanchi",
+        "frequency": "105.8 MHz",
+        "stream_url": "http://s5.voscast.com:7078"
+    },
+    {
+        "name": "Sky FM",
+        "location": "Morang",
+        "frequency": "106.6 MHz",
+        "stream_url": "http://fm.pracas.net:8389/"
+    },
+    {
+        "name": "Damauli FM",
+        "location": "Damauli",
+        "frequency": "94.2 MHz",
+        "stream_url": "http://38.107.242.90:8160/"
+    },
+    {
+        "name": "Radio Nagarik",
+        "location": "Kanchanpur",
+        "frequency": "104.3 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radionagarik"
+    },
+    {
+        "name": "Radio Amargadhi",
+        "location": "Dadeldhura",
+        "frequency": "97.4 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8208/"
+    },
+    {
+        "name": "Radio Nunthar",
+        "location": "Rautahat",
+        "frequency": "102.6 MHz",
+        "stream_url": "http://38.107.242.90:8098/"
+    },
+    {
+        "name": "Radio Sanobheri FM",
+        "location": "Rukum",
+        "frequency": "100.8 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radiosanobheri"
+    },
+    {
+        "name": "Smart FM",
+        "location": "Damauli",
+        "frequency": "89.4 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8414/"
+    },
+    {
+        "name": "Radio Gaushala",
+        "location": "Janakpur",
+        "frequency": "93.6 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8402/"
+    },
+    {
+        "name": "Popular FM",
+        "location": "Sunsari",
+        "frequency": "99.5 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8432"
+    },
+    {
+        "name": "Dhukdhuki FM",
+        "location": "Lalbandi, Sarlahi",
+        "frequency": "95.2 MHz",
+        "stream_url": "http://37.59.42.207:8238"
+    },
+    {
+        "name": "Hetauda FM",
+        "location": "Makwanpur",
+        "frequency": "96.6 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8180/"
+    },
+    {
+        "name": "Radio Gunjan",
+        "location": "Rautahat",
+        "frequency": "102.2 MHz",
+        "stream_url": "http://str1.exsyshost.com:8096/"
+    },
+    {
+        "name": "Radio Tinlal",
+        "location": "Ramechhap",
+        "frequency": "88.6 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8044"
+    },
+    {
+        "name": "Mero FM",
+        "location": "Kathmandu",
+        "frequency": "93.5 MHz",
+        "stream_url": "http://37.59.42.207:8134"
+    },
+    {
+        "name": "Radio Devdaha",
+        "location": "Rupandehi",
+        "frequency": "106.6 MHz",
+        "stream_url": "http://38.107.242.90:8104/"
+    },
+    {
+        "name": "Radio Menchhyayem",
+        "location": "Terhathum",
+        "frequency": "102.6 MHz",
+        "stream_url": "http://178.33.227.116:8403/"
+    },
+    {
+        "name": "Nepaliko Radio",
+        "location": "Koteshwar, Kathmandu",
+        "frequency": "88.8 MHz",
+        "stream_url": "http://www.himalradio.com:9888/"
+    },
+    {
+        "name": "Radio Malmala",
+        "location": "Rupandehi",
+        "frequency": "88.6 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8436/"
+    },
+    {
+        "name": "Radio Today",
+        "location": "Janakpur-1, Dhanusha",
+        "frequency": "91 MHz",
+        "stream_url": "http://38.107.242.90:8016/"
+    },
+    {
+        "name": "Radio Laligurans",
+        "location": "Hile, Dhankuta",
+        "frequency": "105.2 MHz",
+        "stream_url": "http://38.107.242.90:8184/"
+    },
+    {
+        "name": "Ethnic Voice",
+        "location": "Online Radio",
+        "frequency": "online",
+        "stream_url": "http://shoutcast.itechnepal.net:8174/"
+    },
+    {
+        "name": "Ekata Online Radio",
+        "location": "Online Radio",
+        "frequency": "online",
+        "stream_url": "http://ekataonline.com:8059/"
+    },
+    {
+        "name": "Radio Mero Khabar",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://shoutcast.itechnepal.net:8160/"
+    },
+    {
+        "name": "Durga Online FM",
+        "location": "Arizona USA",
+        "frequency": "Online",
+        "stream_url": "http://s1.voscast.com:7814/"
+    },
+    {
+        "name": "Hamro Internet Radio",
+        "location": "Australia",
+        "frequency": "Online",
+        "stream_url": "http://streaming.softnep.net:8039"
+    },
+    {
+        "name": "My Nepal Link",
+        "location": "Hongkong",
+        "frequency": "Online",
+        "stream_url": "http://shoutcast.itechnepal.net:8218/"
+    },
+    {
+        "name": "Radio Nepal",
+        "location": "Kathmandu",
+        "frequency": "100.0 MHz",
+        "stream_url": "http://radio.itech.host:8017/"
+    },
+    {
+        "name": "ACORAB",
+        "location": "Chakupat, Lalitpur",
+        "frequency": "Online",
+        "stream_url": "http://streaming.softnep.net:8009"
+    },
+    {
+        "name": "C FM",
+        "location": "Rajbiraj, Saptari",
+        "frequency": "94.7 MHz",
+        "stream_url": "http://38.107.242.90:8172"
+    },
+    {
+        "name": "HK Nepali Radio",
+        "location": "Hongkong",
+        "frequency": "Online",
+        "stream_url": "http://radio.itechnepal.net:8080/hknepal/"
+    },
+    {
+        "name": "Radio Birat",
+        "location": "Birtamod, Jhapa",
+        "frequency": "88.5 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8158"
+    },
+    {
+        "name": "Nepali Sanchar Radio",
+        "location": "Melbourne, Australia",
+        "frequency": "Online MHz",
+        "stream_url": "http://streaming.shoutcast.com/NepaliSancharRadioAustralia"
+    },
+    {
+        "name": "Dhrubatara FM",
+        "location": "Chitawan",
+        "frequency": "89.8 MHz",
+        "stream_url": "http://streaming.softnep.net:8081"
+    },
+    {
+        "name": "Dinesh FM",
+        "location": "Dhangadhi",
+        "frequency": "93.8 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/dineshfm/"
+    },
+    {
+        "name": "Saptakoshi FM",
+        "location": "Ithari, Sunsari",
+        "frequency": "90 MHz",
+        "stream_url": "http://radio.itechnepal.com/saptakoshi/stream"
+    },
+    {
+        "name": "Radio Rolpa",
+        "location": "Liwang-6, Rolpa",
+        "frequency": "93.8 MHz",
+        "stream_url": "http://38.107.242.90:8150"
+    },
+    {
+        "name": "Radio Melamchi",
+        "location": "Sindhupalchok, Nepal",
+        "frequency": "107.2 MHz",
+        "stream_url": "http://148.251.132.42:9350/"
+    },
+    {
+        "name": "GoalNepal Radio",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://206.51.239.96:8129"
+    },
+    {
+        "name": "Radio Planet",
+        "location": "Shindhupalchwok",
+        "frequency": "89.1 MHz",
+        "stream_url": "http://37.59.42.207:8313"
+    },
+    {
+        "name": "Radio Mangsebung",
+        "location": "Online Radio",
+        "frequency": "Online",
+        "stream_url": "http://shoutcast.itechnepal.net:8212/"
+    },
+    {
+        "name": "Radio Lisne Awaj",
+        "location": "Pyuthan",
+        "frequency": "103 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8038"
+    },
+    {
+        "name": "Radio Pyuthan",
+        "location": "Pyuthan",
+        "frequency": "92 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:8502"
+    },
+    {
+        "name": "Himal FM",
+        "location": "Solukhumbu",
+        "frequency": "90.2 MHz",
+        "stream_url": "http://38.86.49.3:9727/stream.mp3"
+    },
+    {
+        "name": "Mechi Tunes",
+        "location": "Mechinagar-12, Jhapa",
+        "frequency": "96.8 MHz",
+        "stream_url": "http://38.107.242.90:8020"
+    },
+    {
+        "name": "Radio City",
+        "location": "Gahanapokhari, Kathmandu",
+        "frequency": "98.8 MHz",
+        "stream_url": "http://38.107.242.90:8006"
+    },
+    {
+        "name": "Grace FM",
+        "location": "Dhulikhel",
+        "frequency": "107.6 MHz",
+        "stream_url": "http://38.107.242.90:8018/"
+    },
+    {
+        "name": "Radio Highway",
+        "location": "Deukhuri",
+        "frequency": "103.5 MHz",
+        "stream_url": "http://38.107.242.90:8014"
+    },
+    {
+        "name": "Radio Himali",
+        "location": "Jiri",
+        "frequency": "101.8 MHz",
+        "stream_url": "http://38.107.242.90:8016/"
+    },
+    {
+        "name": "Radio Sisne FM",
+        "location": "Khalanga",
+        "frequency": "93.2 MHz",
+        "stream_url": "http://38.107.242.90:8022/"
+    },
+    {
+        "name": "Radio Ramaroshan",
+        "location": "Thulasen",
+        "frequency": "92.0 MHz",
+        "stream_url": "http://38.107.242.90:8010/"
+    },
+    {
+        "name": "United FM",
+        "location": "Bandipur-1, Tanahun",
+        "frequency": "92.4 MHz",
+        "stream_url": "http://38.107.242.90:8192"
+    },
+    {
+        "name": "Samad FM",
+        "location": "Lahan, Siraha",
+        "frequency": "102.6 MHz",
+        "stream_url": "http://38.107.242.90:8008"
+    },
+    {
+        "name": "OnAir Nepal",
+        "location": "Kalikasthan, Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://38.107.242.90:8000"
+    },
+    {
+        "name": "Radio Amurta",
+        "location": "Gaighat , Udayapur",
+        "frequency": "91.6 MHz",
+        "stream_url": "http://192.190.84.25:9974/"
+    },
+    {
+        "name": "Kaligandaki FM",
+        "location": "Galyang, Syangja",
+        "frequency": "92.2 MHz",
+        "stream_url": "http://184.154.202.243:8089"
+    },
+    {
+        "name": "Radio Sarangi",
+        "location": "Mahendrapul, Pokhara",
+        "frequency": "93.8 MHz",
+        "stream_url": "http://streaming.softnep.net:8107"
+    },
+    {
+        "name": "Lok Geet Radio",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://epsilon.shoutca.st:8419/stream.mp3"
+    },
+    {
+        "name": "Machhapuchhre FM",
+        "location": "Kaski, Pokhara",
+        "frequency": "91 MHz",
+        "stream_url": "http://167.114.131.90:5037/stream"
+    },
+    {
+        "name": "Radio Pathshala",
+        "location": "Dang",
+        "frequency": "104 MHz",
+        "stream_url": "http://fm.mymediaworld.net:5036"
+    },
+    {
+        "name": "Radio Himal",
+        "location": "Nepalgunj, Banke",
+        "frequency": "92.8 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radiohimal/;stream.mp3"
+    },
+    {
+        "name": "Eagle FM",
+        "location": "Phidim 1, Panchthar",
+        "frequency": "99.2 MHz",
+        "stream_url": "http://radio.itechnepal.com/eaglefm/stream"
+    },
+    {
+        "name": "Khozee Radio",
+        "location": "Powered by-HamroPatro",
+        "frequency": "Online",
+        "stream_url": "http://50.7.76.254:9767"
+    },
+    {
+        "name": "Radio PMC Nepal",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://s8.voscast.com:8654"
+    },
+    {
+        "name": "Big FM",
+        "location": "Kaski, Pokhara",
+        "frequency": "101.2 MHz",
+        "stream_url": "http://162.216.6.74:8070/"
+    },
+    {
+        "name": "Tinau FM",
+        "location": "Butwal",
+        "frequency": "98.2 MHz",
+        "stream_url": "http://38.107.242.90:8024"
+    },
+    {
+        "name": "Radio Kushum",
+        "location": "Kusma, Parbat",
+        "frequency": "90 MHz",
+        "stream_url": "http://38.107.242.90:8056"
+    },
+    {
+        "name": "Sumhatlung FM",
+        "location": "Phidim-1, Panchthar",
+        "frequency": "104.2 MHz",
+        "stream_url": "http://144.76.110.138:9360"
+    },
+    {
+        "name": "Radio Saligram",
+        "location": "Kushma, Parbat",
+        "frequency": "100.6 Mhz",
+        "stream_url": "http://38.107.242.90:8254"
+    },
+    {
+        "name": "Radio Himalaya",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://shoutcast.itechnepal.net:8541"
+    },
+    {
+        "name": "All Free Nepali Geet",
+        "location": "Butwal",
+        "frequency": "Online",
+        "stream_url": "http://192.190.84.25:9956/"
+    },
+    {
+        "name": "Radio Taplejung",
+        "location": "Taplejung",
+        "frequency": "94.0 Mhz",
+        "stream_url": "http://shoutcast.itechnepal.net:8078/"
+    },
+    {
+        "name": "Myagdi Kali FM",
+        "location": "Beni",
+        "frequency": "88.2 MHz",
+        "stream_url": "http://streaming.softnep.net:8141/"
+    },
+    {
+        "name": "Worcester nepali online radio",
+        "location": "Worcester",
+        "frequency": "Online",
+        "stream_url": "http://s10.voscast.com:8882/"
+    },
+    {
+        "name": "Radio Gurbaba F.M",
+        "location": "Bardiya",
+        "frequency": "106.4 Mhz",
+        "stream_url": "http://www.gurbabafm.org/radio/index.php"
+    },
+    {
+        "name": "Namaste Hetauda",
+        "location": "Hetauda-4, Kamaldada",
+        "frequency": "Online",
+        "stream_url": "http://fm.mymediaworld.net:5038/"
+    },
+    {
+        "name": "Radio Parasi",
+        "location": "Parasi",
+        "frequency": "90.2 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radioparasi"
+    },
+    {
+        "name": "Shuklaphanta FM",
+        "location": "Bhansi",
+        "frequency": "99.4 MHz",
+        "stream_url": "http://198.27.80.37:5340/;"
+    },
+    {
+        "name": "Radio  Chhahari",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://stream.webhostnepal.com:9950"
+    },
+    {
+        "name": "Radio Aaha",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://fm.mycomputersathi.com:5122/;"
+    },
+    {
+        "name": "Radio Paribartan",
+        "location": "Burtibang",
+        "frequency": "91.0 MHz",
+        "stream_url": "http://38.107.242.90:8242/"
+    },
+    {
+        "name": "Guransh FM",
+        "location": "Sankhuwasabha, Khandbari",
+        "frequency": "107.5 MHz",
+        "stream_url": "http://38.107.242.90:8170/"
+    },
+    {
+        "name": "Radio Langtang",
+        "location": "Laharepauwa-8, Syaubari, Rasuwa",
+        "frequency": "90.3 MHz",
+        "stream_url": "http://38.107.242.90:8032"
+    },
+    {
+        "name": "Radio Rolpa",
+        "location": "Liwang-5, Rolpa",
+        "frequency": "93.8 MHz",
+        "stream_url": "http://108.166.174.131:8150"
+    },
+    {
+        "name": "3 Angels Community Radio",
+        "location": "Pokhara",
+        "frequency": "94.6 MHZ",
+        "stream_url": "http://radio.itechnepal.net:8080/angelsra"
+    },
+    {
+        "name": "Afno FM",
+        "location": "Okhaldhunga",
+        "frequency": "104.8 MHz",
+        "stream_url": "http://streaming.softnep.net:8103"
+    },
+    {
+        "name": "Akriti Online Radio",
+        "location": "Pokhara",
+        "frequency": "Online",
+        "stream_url": "http://fm.mycomputersathi.com:5094"
+    },
+    {
+        "name": "Bhaktapur FM",
+        "location": "Itachhen, Bhaktapur",
+        "frequency": "105.4",
+        "stream_url": "http://49.236.212.220:88/broadwave.mp3"
+    },
+    {
+        "name": "Community Radio Sky FM",
+        "location": "Tamghas, Gulmi",
+        "frequency": "90.4 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radiosky"
+    },
+    {
+        "name": "Cyber Sangam Live FM",
+        "location": "",
+        "frequency": "Online",
+        "stream_url": "http://50.7.184.106:8659"
+    },
+    {
+        "name": "ECR FM",
+        "location": "Godawari Area, Badegaon, Lalitpur",
+        "frequency": "104.2 MHz",
+        "stream_url": "http://202.52.245.227:8001/stream"
+    },
+    {
+        "name": "Ganatantra FM",
+        "location": "Dharan-12, Sunsari",
+        "frequency": "95.1 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/ganatantrafm"
+    },
+    {
+        "name": "Good News FM",
+        "location": "Kathmandu, Nepal",
+        "frequency": "105.1 MHz",
+        "stream_url": "http://192.190.84.25:9936"
+    },
+    {
+        "name": "Gunjan FM",
+        "location": "Chandranigapur, Rautahat",
+        "frequency": "105.3",
+        "stream_url": "http://radio.itechnepal.net:8080/gunjanfm"
+    },
+    {
+        "name": "Gurkhali Radiio",
+        "location": "Simal Chaur, Pokhara",
+        "frequency": "106 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/gurkhaliradio"
+    },
+    {
+        "name": "Hajurko Radio",
+        "location": "Ramechhap, Nepal",
+        "frequency": "102.1 MHz",
+        "stream_url": "http://38.107.242.90:8258"
+    },
+    {
+        "name": "Hello Nepal Online Radio",
+        "location": "Canada",
+        "frequency": "Online",
+        "stream_url": "http://s8.voscast.com:8440"
+    },
+    {
+        "name": "Holy Vision Radio",
+        "location": "Hong Kong",
+        "frequency": "Online",
+        "stream_url": "http://shoutcast.itechnepal.net:8236"
+    },
+    {
+        "name": "Khandbari FM",
+        "location": "Sankhuwasava",
+        "frequency": "105.8 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/khadbarifm"
+    },
+    {
+        "name": "Makalu FM",
+        "location": "Biratnagar, Morang",
+        "frequency": "102.1 MHz",
+        "stream_url": "http://bhawesh.com.np:9912/"
+    },
+    {
+        "name": "Mero Radio",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://radio.itechnepal.net:8080/merokhabar"
+    },
+    {
+        "name": "Radio Daunne",
+        "location": "Nawalparasi",
+        "frequency": "103.4 MHz",
+        "stream_url": "http://50.7.184.106:8659/"
+    },
+    {
+        "name": "Dhurbatara FM",
+        "location": "Dailekh",
+        "frequency": "89.8 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/dhurbatara"
+    },
+    {
+        "name": "Radio Bheri Aawaj",
+        "location": "Nepalgunj",
+        "frequency": "95.6 MHz",
+        "stream_url": "http://192.190.84.25:9222/;stream.nsv?1428257279158.mp3"
+    },
+    {
+        "name": "Radio Bheri",
+        "location": "Birendranagar, Surkhet",
+        "frequency": "98.6 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radiobheri"
+    },
+    {
+        "name": "Radio Resunga",
+        "location": "Gulmi",
+        "frequency": "100.6 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/resunga"
+    },
+    {
+        "name": "Aagan FM",
+        "location": "Jhapa",
+        "frequency": "89.6 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/aaganfm"
+    },
+    {
+        "name": "Guransh FM",
+        "location": "Khandbari, Shankhuwasava",
+        "frequency": "107.5 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/guranshfm"
+    },
+    {
+        "name": "Radio Sarobar",
+        "location": "Hetauda, Makawanpur",
+        "frequency": "92.5 MHz",
+        "stream_url": "http://206.225.83.154:9992"
+    },
+    {
+        "name": "Aarambha FM",
+        "location": "Birtamod, Jhapa",
+        "frequency": "104 MHz",
+        "stream_url": "http://192.190.84.25:9982"
+    },
+    {
+        "name": "Radio Janakpur",
+        "location": "Janakpur-8, Dhanusha",
+        "frequency": "97 MHz",
+        "stream_url": "http://str1.sparkhost.co:8070/"
+    },
+    {
+        "name": "Unique FM",
+        "location": "Rukum",
+        "frequency": "97.6 MHz",
+        "stream_url": "http://38.107.242.90:8270"
+    },
+    {
+        "name": "Radio Sauraha",
+        "location": "Sauraha",
+        "frequency": "Online",
+        "stream_url": "http://50.7.154.26:8100/"
+    },
+    {
+        "name": "Antenna Foundation Nepal",
+        "location": "Kathmandu, Nepal",
+        "frequency": "Online",
+        "stream_url": "http://shoutcast.itechnepal.net:8170/"
+    },
+    {
+        "name": "Bhorukawa FM",
+        "location": "Rajbiraj, Saptari",
+        "frequency": "92.8 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/ecomedia-awertbc/stream.mp3"
+    },
+    {
+        "name": "Broadcasting Nepal - Hindi",
+        "location": "Kathmandu",
+        "frequency": "",
+        "stream_url": "http://radio.itechnepal.net:8080/hindi"
+    },
+    {
+        "name": "Bulbule FM",
+        "location": "Birendranagar-6 Surkhet",
+        "frequency": "103.4 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/bulbulefm"
+    },
+    {
+        "name": "Chomolungma FM",
+        "location": "Kafle-9, Bhojpur",
+        "frequency": "98.6 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/chomolungmafm"
+    },
+    {
+        "name": "Radio Madanpokhara FM",
+        "location": "Madanpokhara, Palpa",
+        "frequency": "106.9 MHz",
+        "stream_url": "http://38.107.242.90:8236/"
+    },
+    {
+        "name": "Damauli FM",
+        "location": "Damauli, Tanahun",
+        "frequency": "94.2 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/damaulifm"
+    },
+    {
+        "name": "Godavari FM",
+        "location": "Attariya, Kailali",
+        "frequency": "87.9 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/godavarifm/;stream.nsv"
+    },
+    {
+        "name": "Kali Gandaki FM",
+        "location": "Galyang, Syangja",
+        "frequency": "92.2 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/kaligandakifm"
+    },
+    {
+        "name": "Metro Traffic FM",
+        "location": "Ramshahpath, Kathmandu",
+        "frequency": "95.6 Mhz",
+        "stream_url": "http://91.121.113.129:8260/stream.mp3"
+    },
+    {
+        "name": "Music Joy Radio",
+        "location": "Kuleshwor, Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://192.190.84.25:9990"
+    },
+    {
+        "name": "My Online Radio",
+        "location": "Pokhara",
+        "frequency": "Online",
+        "stream_url": "http://fm.mycomputersathi.com:5308"
+    },
+    {
+        "name": "Nagarik FM",
+        "location": "Bhadrapur-4, Jhapa",
+        "frequency": "107.5 MHz",
+        "stream_url": "http://192.190.84.25:9970"
+    },
+    {
+        "name": "Nepal FM Network",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://shoutcast.itechnepal.net:8878"
+    },
+    {
+        "name": "Nepal Media Online",
+        "location": "Budhanagar, Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://shoutcast.controls.com.np:8543"
+    },
+    {
+        "name": "Nepali Media",
+        "location": "USA",
+        "frequency": "Online",
+        "stream_url": "http://s2.voscast.com:7544"
+    },
+    {
+        "name": "News Diary Online Radio",
+        "location": "Israel",
+        "frequency": "Online",
+        "stream_url": "http://192.190.84.25:9994"
+    },
+    {
+        "name": "Pokhara FM",
+        "location": "Pokhara",
+        "frequency": "95.8 Mhz",
+        "stream_url": "http://fm.mymediaworld.net:5724/"
+    },
+    {
+        "name": "Popular FM",
+        "location": "Inaruwa -7, Sunsari",
+        "frequency": "99.5 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/popularfm"
+    },
+    {
+        "name": "Prime FM",
+        "location": "Banepa-10, Kavre",
+        "frequency": "104.5 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/primefm"
+    },
+    {
+        "name": "Radio Birgunj",
+        "location": "Birgunj",
+        "frequency": "99 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/birgungfm"
+    },
+    {
+        "name": "Radio Chahana",
+        "location": "Hetauda",
+        "frequency": "Online",
+        "stream_url": "http://fm.mycomputersathi.com:5108"
+    },
+    {
+        "name": "Radio Dhading",
+        "location": "Nilkantha, Dhading",
+        "frequency": "106 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/dhading"
+    },
+    {
+        "name": "Radio Everest",
+        "location": "Kathmandu & USA",
+        "frequency": "Online",
+        "stream_url": "http://fm.mycomputersathi.net:5058/stream"
+    },
+    {
+        "name": "Radio Hamro Sansar",
+        "location": "Tinkune, Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://radio.itechnepal.net:8080/radiohamrosansar"
+    },
+    {
+        "name": "Radio Indreni",
+        "location": "Urlabari-4, Morang, Nepal",
+        "frequency": "97.5 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/radioindreni"
+    },
+    {
+        "name": "Radio Janani",
+        "location": "Sirjana Chowk - 8, Pokhara",
+        "frequency": "90.6 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/jananifm"
+    },
+    {
+        "name": "Radio Lekhnath",
+        "location": "Lekhnath, Kaski",
+        "frequency": "106.6 MHz",
+        "stream_url": "http://fm.mycomputersathi.net:5018/stream"
+    },
+    {
+        "name": "Radio Mandavi FM",
+        "location": "Khalanga, Pyuthan",
+        "frequency": "90& 97 Mhz",
+        "stream_url": "http://fm.mycomputersathi.net:5936/"
+    },
+    {
+        "name": "Radio Mukti",
+        "location": "Rupandehi",
+        "frequency": "95.5 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/radiomukti"
+    },
+    {
+        "name": "Radio Myagdi FM",
+        "location": "Arthunge-1, Myagdi",
+        "frequency": "104.4 Mhz",
+        "stream_url": "http://38.107.242.90:8162"
+    },
+    {
+        "name": "Radio Namaste Nepal",
+        "location": "Kathmandu, Nepal",
+        "frequency": "Online",
+        "stream_url": "http://192.190.84.25:9964"
+    },
+    {
+        "name": "Radio Paschim Awaj",
+        "location": "Lamki Chuha Municipality-2,Kailali",
+        "frequency": "104.7 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/paschimaawaj"
+    },
+    {
+        "name": "Radio Ramechhap",
+        "location": "Manthali-4, Ramechhap",
+        "frequency": "95.8 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/radioramechap"
+    },
+    {
+        "name": "Radio Rhino",
+        "location": "Sussex",
+        "frequency": "Online",
+        "stream_url": "http://streaming.softnep.net:8113"
+    },
+    {
+        "name": "Radio Rolpa",
+        "location": "Rolpa",
+        "frequency": "93.8 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/rolpa"
+    },
+    {
+        "name": "Radio Sakhi",
+        "location": "Josipur VDC 7, Kailali",
+        "frequency": "95.8 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radiosakhi"
+    },
+    {
+        "name": "Radio Satellite",
+        "location": "Nawalparasi",
+        "frequency": "105.5 MHz",
+        "stream_url": "http://38.107.242.90:8250/"
+    },
+    {
+        "name": "Radio Saugat",
+        "location": "Lahan",
+        "frequency": "88.1 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/saugatlahan"
+    },
+    {
+        "name": "Radio Society FM",
+        "location": "Mangalsen, Achham",
+        "frequency": "89 Mhz",
+        "stream_url": "http://74.86.4.155:8122"
+    },
+    {
+        "name": "Radio Spain Nepal",
+        "location": "Barcelona, Spain",
+        "frequency": "Online",
+        "stream_url": "http://shoutcast.itechnepal.net:8516"
+    },
+    {
+        "name": "Radio Sunrise",
+        "location": "Birtamod, Jhapa",
+        "frequency": "105.9 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/sunrisefm"
+    },
+    {
+        "name": "Radio Tarai",
+        "location": "Birgunj, Parsa",
+        "frequency": "107 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/radioterai"
+    },
+    {
+        "name": "Radio Terhathum",
+        "location": "Myanglung-1, Terhathum",
+        "frequency": "92.4 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/radioterhathum"
+    },
+    {
+        "name": "Radio Tulsipur FM",
+        "location": "Tulsipur, Dang",
+        "frequency": "100.2 Mhz",
+        "stream_url": "http://37.59.42.207:8319/"
+    },
+    {
+        "name": "Ruru FM",
+        "location": "Gulmi",
+        "frequency": "94.8 Mhz",
+        "stream_url": "http://192.190.84.25:9988"
+    },
+    {
+        "name": "Shakti FM",
+        "location": "Hetauda 4, Makawanpur",
+        "frequency": "103.4 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/shaktifm"
+    },
+    {
+        "name": "Shreenagar FM",
+        "location": "Tansen, Palpa",
+        "frequency": "93.2 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/shreenagarfm"
+    },
+    {
+        "name": "Sunakhari Radio Live",
+        "location": "Khandbari-1, Sankhuwasabha",
+        "frequency": "91.4 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/sunakhariradiolive"
+    },
+    {
+        "name": "Sunaulo FM",
+        "location": "Kaski, Pokhara",
+        "frequency": "102.2 Mhz",
+        "stream_url": "http://fm.mymediaworld.net:5184/"
+    },
+    {
+        "name": "Supa Deurali Music",
+        "location": "Samakhusi, Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://192.190.84.25:9988"
+    },
+    {
+        "name": "Vijaypur FM",
+        "location": "Dharan, Sunsari",
+        "frequency": "98.8 Mhz",
+        "stream_url": "http://radio.itechnepal.net:8080/ecomedia-qmpary/stream.mp3"
+    },
+    {
+        "name": "Radio Arpan",
+        "location": "Chitwan",
+        "frequency": "104.5 Mhz",
+        "stream_url": "http://192.190.84.25:9950/"
+    },
+    {
+        "name": "Radio Jajarkot",
+        "location": "Jajarkot, Khalanga",
+        "frequency": "105.6 MHz",
+        "stream_url": "http://38.107.242.90:8050"
+    },
+    {
+        "name": "Radio Thaha Sanchar FM",
+        "location": "Kathmandu",
+        "frequency": "99.4 HMz",
+        "stream_url": "http://streaming.softnep.net:8025"
+    },
+    {
+        "name": "Uskhabar Radio",
+        "location": "Texas, USA",
+        "frequency": "Online",
+        "stream_url": "http://s6.voscast.com:9238/"
+    },
+    {
+        "name": "Mirchi FM",
+        "location": "Jaleshwor, Mahottari",
+        "frequency": "89.6 MHz",
+        "stream_url": "http://38.107.242.90:8072"
+    },
+    {
+        "name": "Radio Dauna Bebri",
+        "location": "Pahalmanpur, Kailali",
+        "frequency": "92.4 MHz",
+        "stream_url": "http://38.107.242.90:8070"
+    },
+    {
+        "name": "Radio Vision",
+        "location": "Bhadrapur Road, Birtamod, Jhapa",
+        "frequency": "91.6 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radiovision/"
+    },
+    {
+        "name": "Radio Rajmarga",
+        "location": "Dharke, Dhading",
+        "frequency": "92.1 MHz",
+        "stream_url": "http://38.107.242.90:8012/"
+    },
+    {
+        "name": "Shuklaphanta FM",
+        "location": "Bhansi, Kanchanpur",
+        "frequency": "99.4 MHz",
+        "stream_url": "http://167.114.131.90:5340"
+    },
+    {
+        "name": "Itahari FM",
+        "location": "Itahari-1, Sunsari, Nepal",
+        "frequency": "92.5 MHz",
+        "stream_url": "http://192.190.84.25:9954"
+    },
+    {
+        "name": "Radio Palung",
+        "location": "Palung-4, Makawanpur",
+        "frequency": "107.2 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/radiopalung/"
+    },
+    {
+        "name": "Radio Rasuwa",
+        "location": "Rasuwa-5, Dhunche",
+        "frequency": "102.1 MHz",
+        "stream_url": "http://192.190.84.25:9934/"
+    },
+    {
+        "name": "Radio Bindas",
+        "location": "Birgunj-10, Parsa",
+        "frequency": "94.8 MHz",
+        "stream_url": "http://shoutcast.itechnepal.net:7522/"
+    },
+    {
+        "name": "Nepaliko Aawaj",
+        "location": "Dubai, UAE",
+        "frequency": "Online",
+        "stream_url": "http://192.190.84.25:9910/"
+    },
+    {
+        "name": "Naya FM",
+        "location": "Sandhikharka, Arghakhanchi",
+        "frequency": "87.6 MHz",
+        "stream_url": "http://meroserver.com:9946/"
+    },
+    {
+        "name": "Radio Pariwartan",
+        "location": "Itahari, Sunsari",
+        "frequency": "89.4 MHz",
+        "stream_url": "http://37.59.42.207:8166/"
+    },
+    {
+        "name": "Radio Samagra",
+        "location": "Lahan-6, Siraha",
+        "frequency": "107.0 MHz",
+        "stream_url": "http://38.107.242.90:8102/"
+    },
+    {
+        "name": "QN Radio",
+        "location": "Doha, Qatar",
+        "frequency": "Online",
+        "stream_url": "http://176.31.107.8:8355/"
+    },
+    {
+        "name": "Radio Simrik",
+        "location": "Pathari, Morang",
+        "frequency": "96.5 MHz",
+        "stream_url": "http://192.190.84.25:9984"
+    },
+    {
+        "name": "Radio Sarangi",
+        "location": "Biratchok, Morang",
+        "frequency": "101.3 MHz",
+        "stream_url": "http://streaming.softnep.net:8115/"
+    },
+    {
+        "name": "Radio Nikash",
+        "location": "Hetauda, Makawanpur",
+        "frequency": "93.4 MHz",
+        "stream_url": ""
+    },
+    {
+        "name": "Radio Sudoor Awaz",
+        "location": "Amargadhi - 5, Dadeldhura",
+        "frequency": "95.0 MHz",
+        "stream_url": "http://38.107.242.90:8156"
+    },
+    {
+        "name": "Dhawlagiri FM",
+        "location": "Awaroad-2, Baglung",
+        "frequency": "98.6 MHz",
+        "stream_url": "http://s10.voscast.com:10096/"
+    },
+    {
+        "name": "Image News",
+        "location": "Kathmandu",
+        "frequency": "103.6 MHz",
+        "stream_url": "http://182.50.64.136:88/broadwave.mp3"
+    },
+    {
+        "name": "Radio Reeyaz",
+        "location": "Kathmandu",
+        "frequency": "96.8 MHz",
+        "stream_url": "http://38.107.242.90:8106/"
+    },
+    {
+        "name": "NepalBani Network",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://38.107.242.90:8146/"
+    },
+    {
+        "name": "API FM",
+        "location": "Sukhad, Kailai",
+        "frequency": "106.6 MHz",
+        "stream_url": "http://37.59.42.207:8307/stream.mp3"
+    },
+    {
+        "name": "Saipal FM",
+        "location": "Bajhang",
+        "frequency": "100.6 MHz",
+        "stream_url": "http://38.107.242.90:8094/"
+    },
+    {
+        "name": "Gurkha Radio",
+        "location": "London, UK",
+        "frequency": "Online",
+        "stream_url": "http://50.7.154.26:8271/;stream.mp3"
+    },
+    {
+        "name": "Rajdevi FM",
+        "location": "Gaur, Rautahat",
+        "frequency": "93.2",
+        "stream_url": "http://206.225.83.154:9994/"
+    },
+    {
+        "name": "Radio Paschimanchal",
+        "location": "Tansen, Palpa",
+        "frequency": "99.4 MHz",
+        "stream_url": "http://38.107.242.90:8088/"
+    },
+    {
+        "name": "Radio Samanata",
+        "location": "Birpur -9 Kapilbashtu",
+        "frequency": "105.4 MHz",
+        "stream_url": "http://38.107.242.90:8092/"
+    },
+    {
+        "name": "Radio Darchula",
+        "location": "Khalanga-5, Darchula",
+        "frequency": "90.0 MHz",
+        "stream_url": "http://38.107.242.90:8122"
+    },
+    {
+        "name": "Radio Hamro Paila FM",
+        "location": "Khalanga, Jajarkot",
+        "frequency": "91.6 MHz",
+        "stream_url": "http://38.107.242.90:8118/"
+    },
+    {
+        "name": "Online Radio Saptarangi",
+        "location": "India & Nepal",
+        "frequency": "Online",
+        "stream_url": "http://38.107.242.90:8120/"
+    },
+    {
+        "name": "Radio Hemja",
+        "location": "Hemja, Kaski",
+        "frequency": "88.5",
+        "stream_url": "http://fm.mycomputersathi.com:5087/stream"
+    },
+    {
+        "name": "Khasyauli FM",
+        "location": "Butwal",
+        "frequency": "91.8 MHz",
+        "stream_url": "http://38.107.242.90:8016"
+    },
+    {
+        "name": "Radio Godhuli",
+        "location": "USA",
+        "frequency": "",
+        "stream_url": "http://s6.voscast.com:8798/"
+    },
+    {
+        "name": "Sayapatri FM",
+        "location": "Baglung, Nepal",
+        "frequency": "91.6 MHz",
+        "stream_url": "http://38.107.242.90:8086/"
+    },
+    {
+        "name": "Radio Palpa",
+        "location": "Rampur 4, Palpa",
+        "frequency": "97.4 MHz",
+        "stream_url": "http://38.107.242.90:8126/"
+    },
+    {
+        "name": "Great FM",
+        "location": "Khairhani-8, Chitwan",
+        "frequency": "106.4 MHz",
+        "stream_url": "http://38.107.242.90:8020/"
+    },
+    {
+        "name": "Radio Bhote Wodar",
+        "location": "Sundar Bazar-3, Lamjung",
+        "frequency": "90.8 MHz",
+        "stream_url": "http://usa7.fastcast4u.com:5931/"
+    },
+    {
+        "name": "Radio Nepali Aawaj",
+        "location": "Manma-5, Kalikot",
+        "frequency": "101.8 MHz",
+        "stream_url": "http://38.107.242.90:8136/"
+    },
+    {
+        "name": "Unique FM",
+        "location": "Kailashanagar-7, Palpa",
+        "frequency": "94.2 MHz",
+        "stream_url": "http://38.107.242.90:8128/"
+    },
+    {
+        "name": "Jhankar FM",
+        "location": "Ramechhap, Nepal",
+        "frequency": "97.5 MHz",
+        "stream_url": "http://38.107.242.90:8134"
+    },
+    {
+        "name": "Dudhkoshi FM",
+        "location": "Salleri, Solukhumbu",
+        "frequency": "94.6 MHz",
+        "stream_url": "http://38.107.242.90:8114"
+    },
+    {
+        "name": "Galkot FM",
+        "location": "Hatiya-3, Galkot, Baglung",
+        "frequency": "102.4 MHz",
+        "stream_url": "http://fm.mymediaworld.net:5060"
+    },
+    {
+        "name": "Radio Rolpa",
+        "location": "Rolpa",
+        "frequency": "93.8 MHz",
+        "stream_url": "http://108.166.174.131:8150"
+    },
+    {
+        "name": "Radio Simara",
+        "location": "Simara, Bara",
+        "frequency": "91.2 MHz",
+        "stream_url": "http://38.107.242.90:8096"
+    },
+    {
+        "name": "Hamro FM",
+        "location": "Bharatpur, Chitwan",
+        "frequency": "94.0 MHz",
+        "stream_url": "http://38.107.242.90:8142/"
+    },
+    {
+        "name": "Siraichuli FM",
+        "location": "Bharatpur, Chitwan",
+        "frequency": "97.3 MHz",
+        "stream_url": "http://38.107.242.90:8152/"
+    },
+    {
+        "name": "Megha FM",
+        "location": "Kaski, Pokhara",
+        "frequency": "95.4 MHz",
+        "stream_url": "http://fm.mymediaworld.net:5118/"
+    },
+    {
+        "name": "Namaste FM",
+        "location": "Itahari-1, Sunsari",
+        "frequency": "107.2 MHz",
+        "stream_url": "http://192.190.84.25:9940/"
+    },
+    {
+        "name": "Radio Betana",
+        "location": "Belbari-2, Morang",
+        "frequency": "97.1 MHz",
+        "stream_url": "http://192.190.84.25:9958/"
+    },
+    {
+        "name": "Radio Rastriya",
+        "location": "Mahendranagar, Kanchanpur",
+        "frequency": "89.8 MHz",
+        "stream_url": "http://37.59.42.207:8232/"
+    },
+    {
+        "name": "Radio Okhaldhunga",
+        "location": "Ramailo Danda, Okhaldhunga",
+        "frequency": "105.6 MHz",
+        "stream_url": "http://38.107.242.90:8036"
+    },
+    {
+        "name": "Radio Sarangkot",
+        "location": "Chepledhunga-4, Pokhara",
+        "frequency": "104.6 MHz",
+        "stream_url": "http://78.129.187.73:29905"
+    },
+    {
+        "name": "Headlines & Music FM",
+        "location": "Pulchowk, Lalitpur",
+        "frequency": "97.2 MHz",
+        "stream_url": "http://38.107.242.90:8246/"
+    },
+    {
+        "name": "Live Nepali Network",
+        "location": "Birtamod, Jhapa",
+        "frequency": "Online",
+        "stream_url": "http://38.107.242.90:8176/"
+    },
+    {
+        "name": "Radio Derby",
+        "location": "Kathmandu, Nepal",
+        "frequency": "Online",
+        "stream_url": "http://37.59.42.207:8226"
+    },
+    {
+        "name": "Radio Achham",
+        "location": "Mangalsen-6, Achham",
+        "frequency": "94.8 MHz.",
+        "stream_url": "http://38.107.242.90:8164/"
+    },
+    {
+        "name": "Radio Siddhababa",
+        "location": "Kamalamai- 9, Sindhuli",
+        "frequency": "98.4 MHz",
+        "stream_url": "http://38.107.242.90:8178/"
+    },
+    {
+        "name": "Radio Sangam",
+        "location": "Kolhavi-8, Bara",
+        "frequency": "105.5 MHz",
+        "stream_url": "http://38.107.242.90:8146"
+    },
+    {
+        "name": "Indreni FM",
+        "location": "Dang, Gorahi",
+        "frequency": "92.4 MHz",
+        "stream_url": "http://38.107.242.90:8158"
+    },
+    {
+        "name": "Radio Mugu",
+        "location": "Gamgadi, Mugu",
+        "frequency": "107.4 MHz",
+        "stream_url": "http://38.107.242.90:8166/"
+    },
+    {
+        "name": "Radio Ekta",
+        "location": "Lalbandi, Sarlahi",
+        "frequency": "92.4 MHz",
+        "stream_url": "http://206.225.83.154:9990/"
+    },
+    {
+        "name": "Radio Baadal",
+        "location": "Simraungadh, Bara",
+        "frequency": "89 MHz",
+        "stream_url": "http://38.107.242.90:8188"
+    },
+    {
+        "name": "Sanskaar FM",
+        "location": "Kalaiya, Bara",
+        "frequency": "95.6 MHz",
+        "stream_url": "http://hamroweblink2.com/cgi-bin/picoreader.cgi?user=sanskarfm&r=1450694776&f=file.mp3"
+    },
+    {
+        "name": "Radio Saarathi",
+        "location": "Khalanga, Darchula",
+        "frequency": "92.6 MHz",
+        "stream_url": "http://38.107.242.90:8196"
+    },
+    {
+        "name": "Sansher FM",
+        "location": "Gadi-1, Baitadi",
+        "frequency": "106.6 MHz",
+        "stream_url": "http://38.107.242.90:8018/"
+    },
+    {
+        "name": "Youth FM",
+        "location": "Chautara-2, Sindhupalchowk",
+        "frequency": "97.5 MHz",
+        "stream_url": "http://38.107.242.90:8022/"
+    },
+    {
+        "name": "Radio Nagarik",
+        "location": "Biratnagar, Morang",
+        "frequency": "100.4 MHz",
+        "stream_url": "http://38.107.242.90:8030/"
+    },
+    {
+        "name": "Radio Siddhartha",
+        "location": "Siddharthanagar, Rupandehi",
+        "frequency": "98.8 MHz",
+        "stream_url": "http://38.107.242.90:8140/"
+    },
+    {
+        "name": "Radio Star",
+        "location": "Biratnagar, Morang",
+        "frequency": "93.2 MHz",
+        "stream_url": "http://bhawesh.com.np:9930/"
+    },
+    {
+        "name": "Manakamana FM",
+        "location": "Manakamana, Gorkha",
+        "frequency": "98.7 MHz",
+        "stream_url": "http://38.107.242.90:8200/"
+    },
+    {
+        "name": "Relation FM",
+        "location": "Ratnanagar-1, Chitwan",
+        "frequency": "88 MHz",
+        "stream_url": "http://192.190.84.25:9972"
+    },
+    {
+        "name": "Radio Panchadewal",
+        "location": "Binayak, Achham",
+        "frequency": "100.5 MHz",
+        "stream_url": "http://38.107.242.90:8204/"
+    },
+    {
+        "name": "Radio Paurakhi",
+        "location": "Martadi, Bajura",
+        "frequency": "90.4 MHz",
+        "stream_url": "http://38.107.242.90:8202/"
+    },
+    {
+        "name": "Radio Pariwartansil Aawaj",
+        "location": "Seoul, South Korea",
+        "frequency": "Online",
+        "stream_url": "http://38.107.242.90:8206/"
+    },
+    {
+        "name": "Radio Mukteshwor",
+        "location": "Barahathawa, Sarlahi",
+        "frequency": "100.4",
+        "stream_url": "http://38.107.242.90:8042/"
+    },
+    {
+        "name": "Pathivara Online Radio",
+        "location": "Phidim-1, Paanchthar",
+        "frequency": "Online",
+        "stream_url": "http://38.107.242.90:8208/"
+    },
+    {
+        "name": "Radio Daman",
+        "location": "Makawanpur",
+        "frequency": "Online",
+        "stream_url": "http://206.51.239.96:8133"
+    },
+    {
+        "name": "Radio Janadesh",
+        "location": "Australia",
+        "frequency": "Online",
+        "stream_url": "http://198.154.106.104:8509/stream"
+    },
+    {
+        "name": "Hami Sabaiko Online Radio Malaysia",
+        "location": "Malaysia",
+        "frequency": "Online",
+        "stream_url": "http://192.190.84.25:9952"
+    },
+    {
+        "name": "FM Adhyatma Jyoti",
+        "location": "Kathmandu",
+        "frequency": "104.8 Mhz",
+        "stream_url": "http://38.107.242.90:8074/"
+    },
+    {
+        "name": "Radio Dhangadhi",
+        "location": "Dhangadhi, Kailali",
+        "frequency": "90.5 MHz",
+        "stream_url": "http://167.114.131.90:5632/"
+    },
+    {
+        "name": "Apostle FM",
+        "location": "Kaski, Pokhara",
+        "frequency": "102.6 MHz",
+        "stream_url": "http://38.107.242.90:8268"
+    },
+    {
+        "name": "Radio Dhankuta",
+        "location": "Chuliban, Dhankuta",
+        "frequency": "106.2 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/ecomedia-frtaser/stream.mp3"
+    },
+    {
+        "name": "Radio Jalpa",
+        "location": "Bidur, Nuwakot",
+        "frequency": "104.5 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/ecomedia-akrychcx/stream.mp3"
+    },
+    {
+        "name": "Madhesh Jana Aawaj FM",
+        "location": "Garuda, Rautahat",
+        "frequency": "98.6 MHz",
+        "stream_url": "http://radio.itechnepal.net:8080/ecomedia-apwyrhdc/stream.mp3"
+    },
+    {
+        "name": "Radio Deurali",
+        "location": "Arghakhachi",
+        "frequency": "101 MHz",
+        "stream_url": "http://38.107.242.90:8212"
+    },
+    {
+        "name": "Online Radio Gorkhali",
+        "location": "South Korea",
+        "frequency": "Online",
+        "stream_url": "http://38.107.242.90:8224/"
+    },
+    {
+        "name": "Online Radio Laligurash",
+        "location": "Kathmandu",
+        "frequency": "Online",
+        "stream_url": "http://38.107.242.90:8230/"
+    },
+    {
+        "name": "Radio Manakamana",
+        "location": "Kurintar, Chitwan",
+        "frequency": "102.4 MHz",
+        "stream_url": "http://streaming.softnep.net:8139/"
+    },
+    {
+        "name": "Radio Hindu Jagaran Nepal",
+        "location": "Nepal",
+        "frequency": "Online",
+        "stream_url": "http://hjn.online.org.np:5678"
+    },
+    {
+        "name": "Radio Jana  Sanchar",
+        "location": "Bhaktapur, Nepal",
+        "frequency": "107.9 MHz",
+        "stream_url": "http://jfm.online.org.np:5998"
+    },
+    {
+        "name": "Radio Masti",
+        "location": "Kavre Nepal",
+        "frequency": "87.9 MHz",
+        "stream_url": "http://rm.online.org.np:5674"
+    },
+    {
+        "name": "Radio Indrawati",
+        "location": "Kathmandu, Nepal",
+        "frequency": "Online",
+        "stream_url": "http://ind.online.org.np:9994"
+    },
+    {
+        "name": "Radio Shubham",
+        "location": "Kathmandu, Nepal",
+        "frequency": "Online",
+        "stream_url": "http://suv.online.org.np:9996"
+    },
+    {
+        "name": "Radio Banganga",
+        "location": "Kapilbastu",
+        "frequency": "90.6 MHz",
+        "stream_url": "http://38.107.242.90:8226"
+    },
+    {
+        "name": "Radio Malashree",
+        "location": "Rolpa",
+        "frequency": "100.5 MHz",
+        "stream_url": "http://38.107.242.90:8220"
+    },
+    {
+        "name": "Radio Jagaran",
+        "location": "Butwal, Rupandehi",
+        "frequency": "93.6 MHz",
+        "stream_url": "http://206.225.83.154:9988"
+    },
+    {
+        "name": "Nepaliko Online",
+        "location": "Kathmandu, Nepal",
+        "frequency": "Online",
+        "stream_url": "http://fm.mymediaworld.net:5926"
+    },
+    {
+        "name": "Radio Udaypur",
+        "location": "Triyuga Municipality, Udayapur",
+        "frequency": "102.4 MHz",
+        "stream_url": "http://38.107.242.90:8240/"
+    },
+    {
+        "name": "Radio Sindhu",
+        "location": "Sindhupalchok, Chautara",
+        "frequency": "105 MHz",
+        "stream_url": "http://37.59.42.207:8421/"
+    },
+    {
+        "name": "Radio Chomolongma",
+        "location": "Kangel-8, Solukhumbu",
+        "frequency": "95.2 MHz",
+        "stream_url": "http://streaming.softnep.net:8137/"
+    },
+    {
+        "name": "Radio 24 Times",
+        "location": "Japan",
+        "frequency": "Online",
+        "stream_url": "http://streaming.softnep.net:8015"
+    },
+    {
+        "name": "Radio Seti",
+        "location": "Chainpur, Bajhang",
+        "frequency": "93.6 MHz",
+        "stream_url": "http://streaming.softnep.net:8007/"
+    },
+    {
+        "name": "Radio Phoolbari",
+        "location": "Bardiya",
+        "frequency": "100.6 MHz",
+        "stream_url": "http://38.107.242.90:8260"
+    },
+    {
+        "name": "Himalaya Fm Network",
+        "location": "Old Baneshwor, Kathmandu",
+        "frequency": "106.0 MHz",
+        "stream_url": "http://38.107.242.90:8190"
+    },
+    {
+        "name": "Radio Bhojpur",
+        "location": "Bhojpur",
+        "frequency": "93.8 MHz",
+        "stream_url": "http://38.107.242.90:8276/"
+    }
+]
